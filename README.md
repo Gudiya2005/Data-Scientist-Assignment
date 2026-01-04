@@ -23,4 +23,3 @@
 - top_extreme_fear_traders.png
 - winrate_vs_pnl.png
 
-**BTech CSE 2026 | AI/ML Specialization**

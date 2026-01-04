@@ -23,3 +23,6 @@
 - top_extreme_fear_traders.png
 - winrate_vs_pnl.png
 
+## Data Sources
+Hyperliquid trades: historical_data.csv - [https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view?usp=sharing]
+Bitcoin Fear & Greed: fear_greed_index.csv - [https://drive.google.com/file/d/1PgQC0tO8XN-wqkNyghWc_-mnrYv_nhSf/view?usp=sharing]
